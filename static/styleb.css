@@ -1,5 +1,5 @@
 html body {
-	background-color: lavender;
+	background-color: #ecedd5;
 }
 
 header {
@@ -11,14 +11,21 @@ header {
 	justify-content: left;
 	padding-left: 40px;
 	padding-top: 20px;
-	padding-bottom: 20px;
+  padding-bottom: 20px;
+  /* max-width: 500px; */
 }
 
 .vendor-photo {
+	max-width: 400px;
+	max-height: 350px;
+	padding-right: 20px;
+}
+
+/* .vendor-photo {
 	max-width: 200px;
 	max-height: 150px;
 	padding-right: 20px;
-}
+} */
 
 .vendor-book-button {
 	font-size: 2em;
@@ -51,4 +58,8 @@ header {
 
 .red-cart {
 	color: #DF0000;
+}
+
+.col{
+  max-width: 500px;
 }

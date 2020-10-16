@@ -1,6 +1,6 @@
 /* Feel free to modify anything in this file.*/
 html body {
-	background-color: honeydew;
+	background-color: #ecedd5;
 }
 
 header {
@@ -18,7 +18,8 @@ header {
 .vendor-photo {
 	max-width: 200px;
 	max-height: 150px;
-	padding-right: 20px;
+  padding-right: 20px;
+  padding-bottom: 10px;
 }
 
 .vendor-book-button {
@@ -52,4 +53,8 @@ header {
 
 .red-cart {
 	color: #DF0000;
+}
+
+p{
+  padding-top: 10px;
 }
