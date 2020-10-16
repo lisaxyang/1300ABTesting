@@ -11,8 +11,7 @@ header {
 	justify-content: left;
 	padding-left: 40px;
 	padding-top: 20px;
-  padding-bottom: 20px;
-  /* max-width: 500px; */
+	padding-bottom: 20px;
 }
 
 .vendor-photo {
@@ -21,14 +20,9 @@ header {
 	padding-right: 20px;
 }
 
-/* .vendor-photo {
-	max-width: 200px;
-	max-height: 150px;
-	padding-right: 20px;
-} */
-
 .vendor-book-button {
-	font-size: 2em;
+  font-size: 1.5em;
+  margin-right: 10px;
 }
 
 .content-pane {
@@ -53,13 +47,9 @@ header {
   border-style: solid;
 }
 .fa-circle {
-  color: #DF0000;
+  color: #FFFFFF;
 }
 
 .red-cart {
 	color: #DF0000;
-}
-
-.col{
-  max-width: 500px;
 }
